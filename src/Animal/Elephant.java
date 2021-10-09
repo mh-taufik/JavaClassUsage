@@ -1,3 +1,4 @@
+package Animal;
 
 public class Elephant extends Animals {
 	private boolean tusk;

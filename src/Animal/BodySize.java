@@ -1,3 +1,4 @@
+package Animal;
 
 public class BodySize {
 	public static String getBodySize(int size) {	

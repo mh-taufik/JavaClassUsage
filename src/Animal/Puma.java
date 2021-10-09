@@ -1,3 +1,4 @@
+package Animal;
 
 public class Puma extends Animals {
 	private int maxSpeed;
